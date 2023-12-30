@@ -21,7 +21,7 @@ Note: To navigate to dashborard type following command in browser URL:
 
 ![Dashboard image1](./public/assests/dashboard1.png)
 
-![Dashboard image2](./public/assests/dashboard1.png)
+![Dashboard image2](./public/assests/dashboard2.png)
 
 ## Login Page
 
