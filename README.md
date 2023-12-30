@@ -17,7 +17,7 @@ Note: To navigate to dashborard type following command in browser URL:
 
 ![Home page image](./public/assests/home.png)
 
-## Home Page
+## Dashboard
 
 ![Dashboard image1](./public/assests/dashboard1.png)
 
