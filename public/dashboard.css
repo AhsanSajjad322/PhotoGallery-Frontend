@@ -1,0 +1,48 @@
+.imagesContainer {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 5rem;
+}
+
+.imagesSection {
+    width: 70%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 2.7rem;
+}
+
+.img {
+    position: relative;
+    display: inline-block;
+}
+
+input[type="checkbox"] {
+    position: absolute;
+    top: 10px;  /* Adjust the top position as needed */
+    left: 10px; /* Adjust the left position as needed */
+    z-index: 1; /* Ensure the checkbox is on top */
+}
+
+.delete-icon {
+    position: absolute;
+    top: 0px;   /* Adjust the top position as needed */
+    right: 10px; /* Adjust the right position as needed */
+    color: #ff0000;
+    font-size: 1.5em;
+    cursor: pointer;
+    z-index: 1; /* Ensure the delete icon is on top */
+}
+
+img {
+    height: 35vh;
+    width: 30vh;
+    border-radius: 10px;
+}
+
+img:hover {
+    transform: scale(1.01);
+}

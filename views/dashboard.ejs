@@ -1,0 +1,39 @@
+<%- include('header.ejs') %>
+<head>
+    <link rel="stylesheet" href="./dashboard.css">
+</head>
+<h2>Welcome to the Photo Gallery</h2>
+<p>Here is your gallery collection</p>
+<div class="imagesContainer">
+    <div class="imagesSection">
+        <div class="img">
+            <input type="checkbox" id="image1" name="image1">
+            <img src="./assests/bg1.jpg" alt="my img">
+            <span class="delete-icon">&#10006;</span>
+        </div>
+        <div class="img">
+            <input type="checkbox" id="image2" name="image2">
+            <img src="./assests/bg2.jpg" alt="my img">
+            <span class="delete-icon">&#10006;</span>
+        </div>
+        <div class="img">
+            <input type="checkbox" id="image3" name="image3">
+            <img src="./assests/bg5.jpg" alt="my img">
+            <span class="delete-icon">&#10006;</span>
+        </div>
+
+        <div class="img">
+            <input type="checkbox" id="image3" name="image3">
+            <img src="./assests/bg4.jpg" alt="my img">
+            <span class="delete-icon">&#10006;</span>
+        </div>
+
+        <div class="img">
+            <input type="checkbox" id="image3" name="image3">
+            <img src="./assests/bg1.jpg" alt="my img">
+            <span class="delete-icon">&#10006;</span>
+        </div>
+        <!-- Repeat the structure for other images as needed -->
+    </div>
+</div>
+<%- include('footer.ejs') %>
