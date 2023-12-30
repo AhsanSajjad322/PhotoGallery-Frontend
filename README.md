@@ -15,18 +15,18 @@ Note: To navigate to dashborard type following command in browser URL:
 
 ## Home Page
 
-![Home page image](./public/home.png)
+![Home page image](./public/assests/home.png)
 
 ## Home Page
 
-![Dashboard image1](./public/dashboard1.png)
+![Dashboard image1](./public/assests/dashboard1.png)
 
-![Dashboard image2](./public/dashboard1.png)
+![Dashboard image2](./public/assests/dashboard1.png)
 
 ## Login Page
 
-![Login page image](./public/login.png)
+![Login page image](./public/assests/login.png)
 
 ## Signup Page
 
-![Signup page image](./public/signup.png)
+![Signup page image](./public/assests/signup.png)
